@@ -1,0 +1,31 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+.Python
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environment
+.idea/
+.DS_Store
+*.log
+
+# Model directories
+sentiment_model/
+*.safetensors
+*.bin
+fine_tuned_model/
+results/
+
+# System-specific files
+.vscode/
+.ipynb_checkpoints/
+
+# Ignore Git LFS configuration files (if no longer needed)
+.gitattributes
