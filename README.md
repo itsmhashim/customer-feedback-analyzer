@@ -116,7 +116,7 @@ Feel free to explore the notebook for detailed steps and code.
 
 ## Demo
 
-Access the deployed service here: [Sentiment Analysis API Demo](#) 
+Access the deployed service here: [Sentiment Analysis API Demo](https://customer-feedback-analyzer.onrender.com) 
 
 
 ---
